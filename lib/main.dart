@@ -1,3 +1,5 @@
+// {Joshua Prinze C. Calibjo} : {If you focus too much on the bigger picture, you start to lose sight of the smaller one.}
+
 import 'package:flutter/material.dart';
 
 void main() {
